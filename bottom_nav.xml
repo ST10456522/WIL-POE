@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeNav"
+        android:icon="@drawable/baseline_home_24"/>
+    <item android:title="6weeks"
+        android:id="@+id/weeksNav"
+        android:icon="@drawable/weeks_icon"/>
+    <item android:title="6months"
+        android:id="@+id/monthsNav"
+        android:icon="@drawable/months_icon"/>
+    <item android:title="Calculate"
+        android:id="@+id/calculateNav"
+        android:icon="@drawable/calculate_icon"/>
+    <item android:title="Contact"
+        android:id="@+id/contactNav"
+        android:icon="@drawable/contact_icon"/>
+</menu>
